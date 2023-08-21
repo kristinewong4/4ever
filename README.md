@@ -11,3 +11,8 @@ Coded on Visual Studio Code using HTML, CSS, and Javascript.
 Clone this repository to your desktop
 Navigate to the top level of your directory
 Open index.html in your browser
+
+#Liscense
+MIT
+Copywrite (c) 2023 Kristine Wong
+
