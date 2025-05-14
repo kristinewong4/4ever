@@ -8,10 +8,10 @@ Snap a moment, Learn the Next, Memories for all 4 years. The 4ever app allows co
 Coded on Visual Studio Code using HTML, CSS, and Javascript.
 
 # Installation
-Clone this repository to your desktop
-Navigate to the top level of your directory
-Open index.html in your browser
-OR, paste the  https://htmlpreview.github.io/
+Clone this repository to your desktop.
+Navigate to the top level of your directory.
+Open index.html in your browser.
+OR, go to the website https://htmlpreview.github.io and paste in https://github.com/kristinewong4/4ever/blob/main/home.html
 
 #Liscense
 MIT
