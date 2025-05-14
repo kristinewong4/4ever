@@ -11,6 +11,7 @@ Coded on Visual Studio Code using HTML, CSS, and Javascript.
 Clone this repository to your desktop
 Navigate to the top level of your directory
 Open index.html in your browser
+OR, paste the  https://htmlpreview.github.io/
 
 #Liscense
 MIT
